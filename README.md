@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ¿Quien soy? 📋
+
 ⚡ Soy desarrollador frontend y backend con experiencia en la creación de soluciones digitales intuitivas y eficientes. Aplico mi conocimiento en tecnologías como HTML, CSS, JavaScript, Typescript  y frameworks como React con Nextjs y estoy aprendiendo Vuejs 🌱 para construir interfaces interactivas y amigables para el usuario.
 
 ⚡ Con habilidades sólidas en el desarrollo de aplicaciones web y el manejo de bases de datos, estoy preparado para enfrentar desafíos y colaborar en proyectos emocionantes. Mi enfoque se basa en la creación de código limpio y mantenible, y en la implementación de las mejores prácticas de desarrollo.
