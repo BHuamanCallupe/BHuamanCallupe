@@ -12,7 +12,7 @@
 
 Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
 
-<div><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="Logo React" height="30" width="40" /></div>
+<div><img align="center" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" alt="Logo React" height="30" width="40" /></div>
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
