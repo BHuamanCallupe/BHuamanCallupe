@@ -17,8 +17,8 @@ Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
   <img align="center" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="" alt="Logo React" height="100" width="100" />
+  <img align="center" src="https://w7.pngwing.com/pngs/117/744/png-transparent-node-js-javascript-express-js-software-developer-react-network-code-angle-text-rectangle-thumbnail.png" alt="Logo React" height="100" width="100" />
+  <img align="center" src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native-thumbnail.png" alt="Logo React" height="100" width="100" />
 </div>
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
