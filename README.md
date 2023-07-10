@@ -10,7 +10,7 @@
 
 ⚡ Estoy buscando oportunidades para contribuir en un entorno de desarrollo estimulante, donde pueda seguir creciendo profesionalmente. Si estás interesado en conectar, colaborar o explorar posibles oportunidades laborales, ¡me encantaría conversar contigo! No dudes en enviarme un mensaje o visitar mi perfil completo para conocer más sobre mis proyectos y logros.
 
-Contactame 💬: benny.fhc@gmail.com 
+Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
