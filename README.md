@@ -11,6 +11,8 @@
 ⚡ Estoy buscando oportunidades para contribuir en un entorno de desarrollo estimulante, donde pueda seguir creciendo profesionalmente. Si estás interesado en conectar, colaborar o explorar posibles oportunidades laborales, ¡me encantaría conversar contigo! No dudes en enviarme un mensaje o visitar mi perfil completo para conocer más sobre mis proyectos y logros.
 
 Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
+
+<div><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg](https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png)" alt="Logo React" height="30" width="40" /></div>
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
