@@ -20,7 +20,6 @@ Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
   <img align="center" src="https://w7.pngwing.com/pngs/117/744/png-transparent-node-js-javascript-express-js-software-developer-react-network-code-angle-text-rectangle-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/724/234/png-transparent-redux-react-javascript-vue-js-single-page-application-others-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language-thumbnail.png" alt="Logo React" height="100" width="100" />
 </div>
