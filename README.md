@@ -13,7 +13,7 @@
 Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
 
 <div style="display:flex; gap: 50px; flex-wrap: wrap; flex-direction: row;">
-  <img align="center" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid #87ceeb;"/>
   <img align="center" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
   <img align="center" src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
   <img align="center" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
