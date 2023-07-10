@@ -21,7 +21,7 @@ Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
   <img align="center" src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/724/234/png-transparent-redux-react-javascript-vue-js-single-page-application-others-thumbnail.png" alt="Logo React" height="100" width="100" />
   <img align="center" src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/463/96/png-transparent-tailwind-css-wordmark-hd-logo-thumbnail.png" alt="Logo React" height="100" width="100" />
+  <img align="center" src="https://w7.pngwing.com/pngs/876/892/png-transparent-tailwind-css-illustration-thumbnail.png" alt="Logo React" height="100" width="100" />
 </div>
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
