@@ -13,15 +13,15 @@
 Contactame 💬: benny.fhc@gmail.com | https://www.linkedin.com/in/benny-huaman/
 
 <div style="display:flex; gap: 50px; flex-wrap: wrap; flex-direction: row;">
-  <img align="center" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/724/234/png-transparent-redux-react-javascript-vue-js-single-page-application-others-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="Logo React" height="100" width="100" />
-  <img align="center" src="https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language-thumbnail.png" alt="Logo React" height="100" width="100" />
+  <img align="center" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;" />
+  <img align="center" src="https://w7.pngwing.com/pngs/724/234/png-transparent-redux-react-javascript-vue-js-single-page-application-others-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language-thumbnail.png" alt="Logo React" height="100" width="100" style="border: 10px solid skyblue;"/>
 </div>
 <!--
 **BHuamanCallupe/BHuamanCallupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
